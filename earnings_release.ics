@@ -89,4 +89,12 @@ UID:📅 ASML Earnings Release_2026-10-15
 DESCRIPTION:Termin-Quelle: Yahoo Finance (+1 Tag Korrektur).\nAbfrage am: 
  09.08.2026
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 TLX.DE Earnings Release
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261113
+UID:📅 TLX.DE Earnings Release_2026-11-13
+DESCRIPTION:Termin-Quelle: Yahoo Finance (+1 Tag Korrektur).\nAbfrage am: 
+ 16.08.2026
+END:VEVENT
 END:VCALENDAR
