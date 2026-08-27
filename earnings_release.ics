@@ -97,4 +97,20 @@ UID:📅 TLX.DE Earnings Release_2026-11-13
 DESCRIPTION:Termin-Quelle: Yahoo Finance (+1 Tag Korrektur).\nAbfrage am: 
  16.08.2026
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 GBDC Earnings Release
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261118
+UID:📅 GBDC Earnings Release_2026-11-18
+DESCRIPTION:Termin-Quelle: Yahoo Finance (+1 Tag Korrektur).\nAbfrage am: 
+ 27.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 ALV.DE Earnings Release
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261113
+UID:📅 ALV.DE Earnings Release_2026-11-13
+DESCRIPTION:Termin-Quelle: Yahoo Finance (+1 Tag Korrektur).\nAbfrage am: 
+ 27.08.2026
+END:VEVENT
 END:VCALENDAR
