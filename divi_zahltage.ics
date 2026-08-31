@@ -81,4 +81,12 @@ UID:💰 SHEL Dividende Zahltag_2026-09-21
 DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
   startet am: 2026-09-21\nAbfrage: 09.08.2026
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💰 CSWC Dividende Zahltag
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270105
+UID:💰 CSWC Dividende Zahltag_2026-12-31
+DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
+  startet am: 2026-12-31\nAbfrage: 31.08.2026
+END:VEVENT
 END:VCALENDAR
