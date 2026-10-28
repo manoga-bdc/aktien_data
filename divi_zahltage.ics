@@ -89,4 +89,20 @@ UID:💰 CSWC Dividende Zahltag_2026-12-31
 DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
   startet am: 2026-12-31\nAbfrage: 31.08.2026
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💰 TRIN Dividende Zahltag
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270105
+UID:💰 TRIN Dividende Zahltag_2026-12-31
+DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
+  startet am: 2026-12-31\nAbfrage: 28.10.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💰 ASML Dividende Zahltag
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261109
+UID:💰 ASML Dividende Zahltag_2026-11-04
+DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
+  startet am: 2026-11-04\nAbfrage: 28.10.2026
+END:VEVENT
 END:VCALENDAR
