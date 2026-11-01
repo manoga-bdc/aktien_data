@@ -129,4 +129,12 @@ UID:📅 ASML Earnings Release_2027-01-28
 DESCRIPTION:Termin-Quelle: Yahoo Finance (+1 Tag Korrektur).\nAbfrage am: 
  01.11.2026
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 AVGO Earnings Release
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261210
+UID:📅 AVGO Earnings Release_2026-12-10
+DESCRIPTION:Termin-Quelle: Yahoo Finance (+1 Tag Korrektur).\nAbfrage am: 
+ 01.11.2026
+END:VEVENT
 END:VCALENDAR
