@@ -121,4 +121,12 @@ UID:📅 INGA.AS Earnings Release_2027-01-29
 DESCRIPTION:Termin-Quelle: Yahoo Finance (+1 Tag Korrektur).\nAbfrage am: 
  31.10.2026
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 ASML Earnings Release
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270128
+UID:📅 ASML Earnings Release_2027-01-28
+DESCRIPTION:Termin-Quelle: Yahoo Finance (+1 Tag Korrektur).\nAbfrage am: 
+ 01.11.2026
+END:VEVENT
 END:VCALENDAR
