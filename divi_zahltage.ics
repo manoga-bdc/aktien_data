@@ -113,4 +113,20 @@ UID:💰 HTGC Dividende Zahltag_2026-11-17
 DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
   startet am: 2026-11-17\nAbfrage: 29.10.2026
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💰 ARCC Dividende Zahltag
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20270103
+UID:💰 ARCC Dividende Zahltag_2026-12-29
+DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
+  startet am: 2026-12-29\nAbfrage: 02.11.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💰 SHEL Dividende Zahltag
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261226
+UID:💰 SHEL Dividende Zahltag_2026-12-21
+DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
+  startet am: 2026-12-21\nAbfrage: 02.11.2026
+END:VEVENT
 END:VCALENDAR
