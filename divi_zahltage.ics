@@ -129,4 +129,36 @@ UID:💰 SHEL Dividende Zahltag_2026-12-21
 DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
   startet am: 2026-12-21\nAbfrage: 02.11.2026
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💰 BBDC Dividende Zahltag
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261214
+UID:💰 BBDC Dividende Zahltag_2026-12-09
+DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
+  startet am: 2026-12-09\nAbfrage: 09.11.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💰 BXSL Dividende Zahltag
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270428
+UID:💰 BXSL Dividende Zahltag_2027-04-23
+DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
+  startet am: 2027-04-23\nAbfrage: 09.11.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💰 OBDC Dividende Zahltag
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270120
+UID:💰 OBDC Dividende Zahltag_2027-01-15
+DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
+  startet am: 2027-01-15\nAbfrage: 09.11.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💰 MAIN Dividende Zahltag
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+UID:💰 MAIN Dividende Zahltag_2027-03-15
+DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
+  startet am: 2027-03-15\nAbfrage: 09.11.2026
+END:VEVENT
 END:VCALENDAR
