@@ -145,4 +145,12 @@ UID:📅 CSWC Earnings Release_2027-02-02
 DESCRIPTION:Termin-Quelle: Yahoo Finance (+1 Tag Korrektur).\nAbfrage am: 
  04.11.2026
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 GBDC Earnings Release
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270204
+UID:📅 GBDC Earnings Release_2027-02-04
+DESCRIPTION:Termin-Quelle: Yahoo Finance (+1 Tag Korrektur).\nAbfrage am: 
+ 19.11.2026
+END:VEVENT
 END:VCALENDAR
