@@ -161,4 +161,12 @@ UID:💰 MAIN Dividende Zahltag_2027-03-15
 DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
   startet am: 2027-03-15\nAbfrage: 09.11.2026
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💰 GBDC Dividende Zahltag
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20270104
+UID:💰 GBDC Dividende Zahltag_2026-12-30
+DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
+  startet am: 2026-12-30\nAbfrage: 21.11.2026
+END:VEVENT
 END:VCALENDAR
